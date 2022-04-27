@@ -5,7 +5,7 @@ Jika ingin membuat heading, maka setelah kalimat yang akan dibuat heading diberi
 ==
 jika ingin membuat subheading, maka setelah kalimat yang akan dibuat subheading diberi tanda --
 --
-*untuk membuat miring, maka apit dengan tanda **
+*untuk membuat miring, maka apit dengan tanda (*) *
 
 untuk membuat list bisa dengan tanda (-)
 - list 1
