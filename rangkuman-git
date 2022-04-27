@@ -1,0 +1,12 @@
+- Repository adalah wadah atau tempat penyimpanan proyek di mana kita bisa melacak perubahan yang terjadi di dalamnya, terdapat 22 jenis berdasarkan pengaturan visibilitasnya yaitu privat dan public. sedangkan berdasar jenisnya terdapat 2 jenis yaitu loocal (di komputer kita sendiri) dan remote (di cloud atau server)
+- Saat kita membuat repository terdapat beberapa inisialisasi yang bisa dilakukan, diantaranya: 
+  a. Add a README file. untuk menambahkan readme atau keterangan/penjelasan dari repository yang kita buat.
+  b. Add .gitignore. untuk konfigurasi bawaan dari Git yang memungkinkan Git untuk mengabaikan file yang tidak ingin kita upload ke server repository.
+  c. Choose a license. biasanya digunakan untuk pengembangan software
+ - Fungsi-fungsi dalam github:  
+   a. git cmmit, untuk menyimpan hasil perubahan. untuk memudahkan mengetahui perubahan apa yang sudah dilakukan ketika melakukan git commit kita juga menambahkan pesan commit nya
+   b. git checkout, untuk berpindah ke branch yang dituju
+   c. git reset, untuk menghapus beberapa riwayat commit sebelumnya. hari-hati karena setelah reset file atau cmmit sebelumnya tidak bisa dikembalikan
+   d. git revert, untuk mengembalikan ke keadaan sebelum commit yang dituju. Revert tidak akan menghilangkan riwayat commit sesudahnya.
+ - Cara membuat release file atau versi release, create a release file
+ - tag version pada release file biasanya diawali dengan v yang berari version. contoh v.1.0, v.1.0.0 dst
